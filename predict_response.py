@@ -12,7 +12,7 @@ import pickle
 import numpy as np
 import random
 
-# Cargar la biblioteca para el módelo
+# Cargar la biblioteca para el modelo
 import tensorflow
 from data_preprocessing import get_stem_words
 
